@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            WOOLANE
 locale:           en_US
-url:
+url:http://woolane.github.io
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Liang Wu
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: #woolane
   facebook: #username
   google:
     plus: #username
