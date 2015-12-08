@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:WOOLANE
+title:            WOOLANE
 locale:           en_US
 url:http://woolane.github.io
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Liang Wu
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Stay Young, Stay Simple, Stay Naive."
   email:
   disqus-shortname:
   twitter: #woolane
